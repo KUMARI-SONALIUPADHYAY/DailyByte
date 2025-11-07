@@ -8,8 +8,6 @@ public class KUMARISONALIUPADHYAY_6606175 {
  System.out.println("numbers of words:"+ count);
  scan.close();
  }
-
- //here is countwords function code 
  private static int countwords(String sentence) {
     //if this is empty 
   if(sentence ==null || sentence.isEmpty()){
