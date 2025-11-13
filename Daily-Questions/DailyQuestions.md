@@ -36,6 +36,9 @@ Welcome to the **Daily Questions** section of DailyByte! This is your central hu
 | 4 | Nov 7 | [Palindrome String](./11-07-2025.md) | 🟢 Easy | String Manipulation | 🔓 Open |
 | 5 | Nov 8 | [Nth Fibonacci Term](./11-08-2025.md) | 🟢 Easy | Math & Recursion | 🔓 Open |
 | 6 | Nov 9 | [Decimal to Binary](./11-09-2025.md) | 🟢 Easy | Math & Bit Manipulation | 🔓 Open |
+| 7 | Nov 10 | [Remove Duplicate Numbers](./11-10-2025.md) | 🟢 Easy | Arrays & Hash Tables | 🔓 Open |
+| 8 | Nov 11 | [Single Rotation of Array](./11-11-2025.md) | 🟢 Easy | Arrays & Algorithm Design | 🔓 Open |
+| 9 | Nov 12 | [Reverse the Array](./11-12-2025.md) | 🟢 Easy | Arrays & Two Pointers | 🔓 Open |
 
 ### Coming Soon
 - More exciting problems are on the way!
